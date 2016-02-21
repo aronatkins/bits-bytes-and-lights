@@ -3,7 +3,7 @@ This is my collection of Arduino Gemma programs. They make things light up.
 
 ## LED sequins
 
-The [Wearables] directory contains programs written for the
+The [Wearables](Wearables) directory contains programs written for the
 [Jewelbots](http://jewelbots.com/)
 [Wearables Kit 1.0](http://jewelbots.com/intro-to-wearables-kit.html).
 
@@ -39,7 +39,7 @@ not be as effective.
 
 ## NeoPixel
 
-The [NeoPixel] directory contains a number of programs that use the
+The [NeoPixel](NeoPixel) directory contains a number of programs that use the
 [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 with the [Arduino Gemma](https://www.arduino.cc/en/Main/ArduinoGemma).
 
