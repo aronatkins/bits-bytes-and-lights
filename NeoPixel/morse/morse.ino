@@ -44,6 +44,7 @@ void setup() {
 #define Y letter_Y()
 #define Z letter_Z()
 
+// An attempt at sending morse code across a Neopixel. Still under development.
 void loop() {
   H;LT;E;LT;L;LT;L;LT;O;
   WD;
