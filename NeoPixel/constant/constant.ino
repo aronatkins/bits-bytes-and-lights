@@ -15,7 +15,7 @@ void setup() {
   strip.setBrightness(30);
 }
 
-// Apply a color to each pixel.
+// Apply the color to each pixel.
 void loop() {
   uint8_t i;
   for (i=0; i<strip.numPixels(); i++) {
